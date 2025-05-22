@@ -17,5 +17,5 @@ WORKDIR /app
 COPY --from=builder /app/main .
 COPY --from=builder /app/tracker.db .
 
-RUN ["./main"]
+CMD ["./main"]
 
