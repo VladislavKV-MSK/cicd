@@ -2,7 +2,6 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.24.3-blue)](https://golang.org)
 [![SQLite](https://img.shields.io/badge/SQLite-modernc.org%2Fsqlite-brightgreen)](https://modernc.org/sqlite)
-[![Tests](https://github.com/VladislavKV-MSK/cicd/actions/workflows/go.yml/badge.svg)](https://github.com/VladislavKV-MSK/cicd/actions)
 
 Проект разработан в рамках 12-го спринта Яндекс Практикума как учебное задание по работе с CI/CD и базой данных в Go.
 
